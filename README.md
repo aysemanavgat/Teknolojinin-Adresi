@@ -5,6 +5,7 @@
 3) Open wep api
 4) Client(Angular) -> Open Terminal -> npm i
 5) Client -> terminal -> ng serve --open
+
 You should have to run "npm i" command before "ng serve" for node_modules folder. Because the folder can be very heavy.
 
 You can try
